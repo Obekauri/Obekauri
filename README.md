@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=obekauri" alt="obekauri" /></a> </p>
 
-- 🔭 I’m currently working on **BloomTech projects as a learner**
+- 🔭 I’m currently working on my **Web Page**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Algorithms**
 
 - 👯 I’m looking to collaborate on **New project**
 
-- 💬 Ask me about **Python, Database, SQL, Flask, Jinja**
+- 💬 Ask me about **Python, Javascript, Database, SQL, Flask, Jinja**
 
 - 📫 How to reach me **omarbekauri13@gmail.com**
 
